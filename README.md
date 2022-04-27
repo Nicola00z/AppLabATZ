@@ -5,16 +5,21 @@ Derscrizione:
 Questo proggetto punta a sensibilizzare sul tema della privacy, nell'era digitale, in cui tutti i nostri dati sono gestiti sotto forma di bit e i dispositivi digitali tracciano
 ogni nostra azione in rete, il tema della privacy rappresenta una priorità per tutti i cittadini
 
-lavoro di gruppo applab 2022
+Lavoro di gruppo applab 2022  
 [Link app](https://studio.code.org/projects/applab/kiA073RsaTptbG7xQVnZTCZ6rD1rsn1QTuEKkOsaZi8)
 
-4AI,I.T.I.S G. Marconi VR, 27/04/22
-- Ambrosi Marco
-- Toffalori Christian
-- Zantedeschi Nicola (Creazione Markdown, ritaglio immagini etc.)
+4AI - I.T.I.S G. Marconi VR - 27/04/22  
+1. Ambrosi Marco
+  -
+2. Toffalori Christian
+  -
+3. Zantedeschi Nicola
+  - Creazione Markdown
+  - Ritaglio immagini
+  - 
 
 
-___
+
 ## Image Source
 
 [Robots](https://www.freepik.com/vectors/robot-cartoon)   
