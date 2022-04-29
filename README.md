@@ -17,7 +17,7 @@ Lavoro di gruppo applab 2022
   -ricerca e scelta immagini
   -
 2. Toffalori Christian
-  -...
+  - ...
   -
 3. Zantedeschi Nicola
   - Creazione Markdown
