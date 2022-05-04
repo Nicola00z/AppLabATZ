@@ -9,7 +9,7 @@ Questo proggetto punta a sensibilizzare sul tema della privacy, nell'era digital
 ogni nostra azione in rete, il tema della privacy rappresenta una priorità per tutti i cittadini
 
 Lavoro di gruppo applab 2022  
-[Link app]https://studio.code.org/projects/applab/2zLbuFr_SefNG5Tbd2nVW62y-UD-bJB2XexPi-UoO7c
+[Link app](https://studio.code.org/projects/applab/2zLbuFr_SefNG5Tbd2nVW62y-UD-bJB2XexPi-UoO7c)
 
 4AI - I.T.I.S G. Marconi VR - 27/04/22  
 1. Ambrosi Marco
